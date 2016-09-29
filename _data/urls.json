@@ -1,0 +1,46 @@
+[
+  {
+    "text": "Blog Home",
+    "url": "/",
+    "icon": "fa-home",
+    "layout": "post"
+  },
+  {
+    "text": "About",
+    "url": "/about/",
+    "icon": "fa-info"
+  },
+  {
+    "text": "Institutions",
+    "url": "/institutions",
+    "icon": "fa-university"
+  },
+  {
+    "text": "Training",
+    "url": "/training",
+    "icon": "fa-calendar",
+    "layout": "post"
+  },
+  {
+    "text": "Software",
+    "url": "/software/",
+    "icon": "fa-code",
+    "layout": "post"
+  },
+  {
+    "text": "Hardware",
+    "url": "/hardware/",
+    "icon": "fa-desktop",
+    "layout": "post"
+  },
+  {
+    "text": "Github",
+    "url": "https://github.com/AcceleratedComputing/AcceleratedComputing.github.io",
+    "icon": "fa-github"
+  },
+  {
+    "text": "Contact",
+    "url": "/contact/",
+    "icon": "fa-mobile"
+  },
+]

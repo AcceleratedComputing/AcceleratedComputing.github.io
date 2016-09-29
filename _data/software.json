@@ -1,0 +1,27 @@
+[
+	{
+		"name": "FLAME GPU",
+		"image": "http://paulrichmond.shef.ac.uk/assets/images/flamegpu.png",
+		"url": "http://www.flamegpu.com",
+		"tags": ["CUDA","Multi Agent Simulation", "Complex Systems"]
+	},
+	{
+		"name": "Cool project 2",
+		"image": "placeholder.jpg",
+		"url": "#",
+		"tags": ["Android","PHP"]
+	},
+	{
+		"name": "Cool project 3",
+		"image": "placeholder.jpg",
+		"url": "#",
+		"tags": ["HTML","JQuery","PHP"]
+	},
+	{
+		"name": "Cool project 4",
+		"image": "placeholder.jpg",
+		"url": "#",
+		"tags": ["Android","nodejs"]
+	}
+
+]

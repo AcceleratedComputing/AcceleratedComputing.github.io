@@ -1,0 +1,19 @@
+[
+	{
+		"name": "One day GPU Training Course",
+		"location": "University of Sheffield",
+		"person": "Paul Richmond",
+		"date": "November 2016, March 2017",
+		"url": "http://paulrichmond.shef.ac.uk/teaching/CUDA/",
+		"archived": "no",
+	},
+	{
+		"name": "CUDA Programming on NVIDIA GPUs",
+		"location": "University of Oxford (OeRC)",
+		"person": "Mike Giles",
+		"date": "July 24-28 or Jul 31-Aug 4",
+		"url": "http://people.maths.ox.ac.uk/~gilesm/cuda/",
+		"archived": "no",
+	},
+
+]
