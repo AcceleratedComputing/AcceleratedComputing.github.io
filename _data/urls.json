@@ -28,12 +28,6 @@
     "layout": "post"
   },
   {
-    "text": "Hardware",
-    "url": "/hardware/",
-    "icon": "fa-desktop",
-    "layout": "post"
-  },
-  {
     "text": "Github",
     "url": "https://github.com/AcceleratedComputing/AcceleratedComputing.github.io",
     "icon": "fa-github"

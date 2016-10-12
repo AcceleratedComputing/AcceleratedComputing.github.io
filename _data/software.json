@@ -3,25 +3,19 @@
 		"name": "FLAME GPU",
 		"image": "http://paulrichmond.shef.ac.uk/assets/images/flamegpu.png",
 		"url": "http://www.flamegpu.com",
-		"tags": ["CUDA","Multi Agent Simulation", "Complex Systems"]
+		"tags": ["CUDA","Multi Agent Simulation", "Complex Systems", "Sheffiled"]
 	},
 	{
-		"name": "Cool project 2",
-		"image": "placeholder.jpg",
-		"url": "#",
-		"tags": ["Android","PHP"]
+		"name": "OP2",
+		"image": "http://www.oerc.ox.ac.uk/sites/default/files/styles/project_page/public/projects/OP2.jpg?itok=LgoTy42U",
+		"url": "http://www.oerc.ox.ac.uk/projects/op2",
+		"tags": ["CUDA", "Oxford", "Unstructured Grids"]
 	},
 	{
-		"name": "Cool project 3",
-		"image": "placeholder.jpg",
-		"url": "#",
-		"tags": ["HTML","JQuery","PHP"]
-	},
-	{
-		"name": "Cool project 4",
-		"image": "placeholder.jpg",
-		"url": "#",
-		"tags": ["Android","nodejs"]
+		"name": "PyFR",
+		"image": "http://www.pyfr.org/images/research/gbp-2.jpg",
+		"url": "http://www.pyfr.org/",
+		"tags": ["CUDA","Imperial","PyFR", "CFD"]
 	}
 
 ]

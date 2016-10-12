@@ -37,7 +37,7 @@ $text_size: 13px;
         @include margins(5px 0);
         @include borderbtm( #EEE );
         font-size: $heading_size;
-
+		text-align: center;	
     }
 
     .griditem-inner > a { 

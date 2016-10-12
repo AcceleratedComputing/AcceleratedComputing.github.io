@@ -4,7 +4,10 @@ title: Nationally Available Accelerated Computing Training
 permalink: /training/
 ---
 
-The following national training is currently available. If you would like to add training to the calendar then either [contact](contact) us or submit a pull request.
+If you would like to add training to the calendar then either [contact](contact) us or submit a pull request.
+
+## Open to all courses ##
+The following national training is currently available. Keep an eye on on the blog and twitter for details of course sign up links.
 
 <br/>
 

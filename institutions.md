@@ -10,14 +10,14 @@ permalink: /institutions/
     	<div class="well griditem-outer">
     		<div class="griditem-inner">
     			
-    			<div class="griditem-img bordered" style="background-image: url('/static/img/{{ i.image }}');"></div>
-                
+    			<div class="griditem-img bordered" style="background-image: url({% if i.image contains 'http' %}'{{ i.image }}'{% else %}'/static/img/{{ i.image }}'{% endif %});"></div>
+			
                 {% if i.url %} <a  href="{{ i.url }}"> {% endif %}
-    			<h3 class="griditem-headlines">{{ i.institution }}</h3>
+    			<h3 class="griditem-headlines">{{ i.name }}</h3>
     			{% if i.url %} </a> {% endif %}
     			<div class="griditem-footer"> 
     				{% if i.url %} 
-    				<a href="{{ i.url }}" class="btn btn-info btn-raised btn-sm griditem-link">More Details</a>
+    				<a href="{{ i.url }}" class="btn btn-info btn-raised btn-sm griditem-link">{% if i.url contains 'http'%}External Link{% else %}More Details{% endif %}</a>
     				{% endif %}
     			</div>
     		</div>
@@ -26,4 +26,4 @@ permalink: /institutions/
     {% endfor %}
 </div>
 
-If you currently run a group which focuses on the application or development of accelerated computing then please add you institution or alternatively update your existing institutional details to include your group. Changes should be proposed via Github pull request with will be reviewed by the [editorial board](/contact/).
+If you currently run a group which focuses on the application or development of accelerated computing then please add you institution or alternatively update your existing institutional details to include your group. Changes should be proposed via Github pull request using the [following instructions](../howto/add_institution).
